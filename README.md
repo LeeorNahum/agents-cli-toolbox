@@ -18,4 +18,4 @@ Pick the launcher(s) you want, put the file somewhere on your PATH (or put it in
 
 Paste this into Claude Code, Codex, or any coding agent:
 
-> Clone https://github.com/LeeorNahum/agent-yolo, read its README.md, then set up whichever launcher(s) I ask for (all of them if I don't say). Use the `.cmd` files on Windows, the `.sh` files on macOS/Linux. Put the launcher(s) on my PATH. Verify each one actually works, then summarize what you did.
+> Clone https://github.com/LeeorNahum/agent-yolo, read its README.md, then check which of codex, claude, and claudex are actually available on this machine. Set up only the launcher(s) that match what's actually installed, unless I ask for a specific one by name regardless. Use the `.cmd` files on Windows, the `.sh` files on macOS/Linux. Put the launcher(s) on my PATH. Verify each one actually works, then summarize what you did.
