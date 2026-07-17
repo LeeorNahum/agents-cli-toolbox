@@ -9,3 +9,4 @@ Tiny personal launcher scripts for running Codex/Claude Code with approval promp
 - Never use em dashes in new text (see `no-em-dashes` skill).
 - Keep this repo small. A new launcher earns its own subfolder with matching `.cmd` (Windows) and `.sh` (macOS/Linux) variants; do not add a framework, installer wizard, or dependency beyond what a launcher genuinely needs.
 - Run `skill-sync` before every commit (see that skill).
+- Use `release-versioning` when bumping `VERSION` or tagging a release (see that skill).

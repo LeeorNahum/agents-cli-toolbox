@@ -1,5 +1,7 @@
 # agent-yolo
 
+[![GitHub Release](https://img.shields.io/github/v/release/LeeorNahum/agent-yolo?sort=semver)](https://github.com/LeeorNahum/agent-yolo/releases/latest)
+
 Tiny launchers for running Codex and Claude Code with their most permissive modes. Windows uses the `.cmd` files, macOS/Linux use the `.sh` files.
 
 These commands are unsafe. They disable approval prompts and sandbox or permission checks. Use them only on machines and directories you trust.
